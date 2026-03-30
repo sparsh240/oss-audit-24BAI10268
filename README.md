@@ -67,7 +67,6 @@ This repository contains five practical Linux bash scripts created to study and 
 
 ## 💻 Step-by-Step Instructions to Run Scripts
 
-1. **Clone the repository:**
    ```bash
    git clone https://github.com/sparsh240/oss-audit-24BAI10268.git
    cd oss-audit-24BAI10268
